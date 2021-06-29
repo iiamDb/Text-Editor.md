@@ -2,7 +2,7 @@
 
 # What is a text editor?
 <ul>
-  <li> A piece of software that you download and install on your computer, that allows you to write and manage text.
+  <li> A piece of software that you download and install on your computer, that allows you to write and <em>manage</em> text.
 </ul>
 <h1> What <em>features</em> you should look for in a text editor</h1>
 <ul>
