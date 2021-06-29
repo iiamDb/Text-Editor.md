@@ -22,4 +22,7 @@
   <li> TextWrangler/ BB Edit- TextWrangler was retired in 2017, but it was one of the go-to text editors for mac computers. BB Edit is a software you can purchase for $49.99 and you will get the same features you would get on TextWrangler.</li>
   <li> Visual Studio Code- is a free text editor, which has HTMl ans CSS already built-in with no additional work form you at all. VS Code also have everything you need: syntax highlighting, themes, extensions and code completion.</li>
   <li> Atom- is a free text editor that is brought to you by the folks at GitHib. GitHub is a great service online where you can host and review code, or you can post and get help with the developmetn of your own projects></li>
+  <li> Brackets- is a free text editor that only supports HTML, CSS and JavaScript. Though more coding capabilities can be added through extensions.</li>
+  <li> Sublime Text- is a premium software that can be purchased in full for $70. Sublime Text enjoys a history of being fast and responsice while being extensible as well.</li>
 </ol>
+<h4> The Difference Between Text Editors and IDEs</h4>
