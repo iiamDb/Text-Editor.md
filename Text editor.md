@@ -26,3 +26,7 @@
   <li> Sublime Text- is a premium software that can be purchased in full for $70. Sublime Text enjoys a history of being fast and responsice while being extensible as well.</li>
 </ol>
 <h4> The Difference Between Text Editors and IDEs</h4>
+<ul>
+  <li> A text editor kind of gives away what it does in the title, and it also manages text and files</li>
+  <li> An IDE (Intergrated Development Environment) is really a suite of different software all coming together. It is a text editor, a file manager, a compiler,and a debugger all in one software package.</li>
+</ul>
