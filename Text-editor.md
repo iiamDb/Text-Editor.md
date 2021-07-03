@@ -30,4 +30,3 @@
   <li> A text editor kind of gives away what it does in the title, and it also manages text and files</li>
   <li> An IDE (Intergrated Development Environment) is really a suite of different software all coming together. It is a text editor, a file manager, a compiler,and a debugger all in one software package.</li>
 </ul>
-[Text-Editor]
